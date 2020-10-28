@@ -20,6 +20,6 @@ cd brounie-test/
 
 Y corremos el Script
 
-```bash
+```python
 python3 Main.py
 ```
