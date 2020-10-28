@@ -2,7 +2,7 @@
 
 ## Instrucciones
 Descarga de Python3
-https://www.python.org/downloads/ [https://www.python.org/downloads/]
+https://www.python.org/downloads/ (https://www.python.org/downloads/)
 
 Una vez descargado e instalado, revisamos en consola que este en el $PATH.
 
